@@ -4,5 +4,8 @@ The goal of this project is to clean and combine the necessary information neede
 # Feature #
 SQL
 
+# Content #
+Creating views
+
 # Conclusion #
 After using SQL to restructure the album data for analysis, it is clear to us factors such as song durations can impact the likeability of albums. Moreover, depending on the sequence of songs, albums can have different outcomes from listeners.
